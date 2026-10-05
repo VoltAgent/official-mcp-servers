@@ -8,7 +8,8 @@
 
 # Official MCP Servers
 
-**The curated directory of official MCP servers. No unofficial forks, no abandoned projects, just servers you can trust.**
+**The curated directory of official MCP servers.**<br/>
+**No unofficial forks, no abandoned projects, just servers you can trust.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Servers Count](https://img.shields.io/badge/MCP%20Servers-286-blue?style=flat-square)
@@ -19,29 +20,19 @@
 
 ## What is MCP?
 
-The Model Context Protocol (MCP) is an open standard that lets AI assistants and agents connect to external tools and data in a consistent way. Instead of writing a custom integration for every app, an MCP server exposes a product's capabilities (read a database, create a ticket, send an email, search the web, deploy a site) and any MCP compatible client, such as Claude, ChatGPT, Cursor or VS Code, can use them. In practice, MCP is what turns a chat assistant into an agent that can actually do work in the tools you already use.
+The Model Context Protocol (MCP) is an open standard that lets AI assistants connect to external tools and data. An MCP server exposes what a product can do (query a database, create a ticket, send an email), and any MCP client such as Claude, ChatGPT or Cursor can use it.
 
 ## Why this list matters
 
-The MCP ecosystem is growing fast, and most directories are full of unofficial, abandoned or copy-pasted servers. That is a real problem: an MCP server can read your data and take actions on your behalf, so who built it and who maintains it matters. Running a random server with access to your database, your payments or your inbox is a security risk.
-
-This repository exists to give you a short, trustworthy starting point. Every entry is either an official server backed by the product or company it connects to, or a widely used open source project. Obscure and unmaintained projects are left out. Where a project has no public repository, the entry links to the vendor's official MCP documentation or its Claude connector page instead.
+An MCP server can read your data and act on your behalf, so who built it matters. Every entry here is an official server from the company behind the product, or a widely used open source project. Where there is no public repository, we link the vendor's official MCP docs.
 
 ## Table of Contents
 
-<div align="center">
-
-[Cloud and DevOps](#cloud-and-devops)&nbsp;·&nbsp; [Databases and Data](#databases-and-data)&nbsp;·&nbsp; [Observability and Analytics](#observability-and-analytics)<br/>
-
-[Browser Automation and Web Data](#browser-automation-and-web-data)&nbsp;·&nbsp; [Search and Research](#search-and-research)&nbsp;·&nbsp; [Developer Tools](#developer-tools)<br/>
-
-[Security and Code Quality](#security-and-code-quality)&nbsp;·&nbsp; [Productivity and Project Management](#productivity-and-project-management)&nbsp;·&nbsp; [Finance and Payments](#finance-and-payments)<br/>
-
-[Communication and Messaging](#communication-and-messaging)&nbsp;·&nbsp; [AI, Media and Data Visualization](#ai-media-and-data-visualization)&nbsp;·&nbsp; [Design and Collaboration](#design-and-collaboration)<br/>
-
-[Travel and Lifestyle](#travel-and-lifestyle)&nbsp;·&nbsp; [Web, Marketing and Product](#web-marketing-and-product)<br/>
-
-</div>
+| [Cloud and DevOps](#cloud-and-devops) | [Databases](#databases-and-data) | [Observability](#observability-and-analytics) | [Browser and Web](#browser-automation-and-web-data) |
+|---|---|---|---|
+| [Search](#search-and-research) | [Developer Tools](#developer-tools) | [Security](#security-and-code-quality) | [Productivity](#productivity-and-project-management) |
+| [Finance](#finance-and-payments) | [Messaging](#communication-and-messaging) | [AI and Media](#ai-media-and-data-visualization) | [Design](#design-and-collaboration) |
+| [Travel](#travel-and-lifestyle) | [Marketing](#web-marketing-and-product) |  |  |
 
 <details open>
 <summary><h3 style="display:inline">Cloud and DevOps</h3></summary>
