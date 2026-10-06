@@ -67,7 +67,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Alibaba Cloud Ops](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)** - Operate Alibaba Cloud resources like ECS and monitoring
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - Azure DevOps repos, work items and pipelines
 - **[Radar](https://github.com/skyhook-io/radar)** - Inspect, troubleshoot and operate Kubernetes clusters
-
 - **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
 
 </details>
