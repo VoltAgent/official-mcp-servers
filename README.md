@@ -176,6 +176,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Parallel Search](https://github.com/parallel-web/search-mcp)** - Web search for AI agents via Parallel ([Claude](https://claude.com/marketplace/connectors/parallel-search))
 - **[Brave Search](https://github.com/brave/brave-search-mcp-server)** - Web, local and image search with Brave
 - **[Jina AI](https://github.com/jina-ai/MCP)** - Search, read and embed the web with Jina AI
+- **[Desearch](https://github.com/Desearch-ai/mcp-desearch)** - AI search, X search and web search for AI agents
 
 </details>
 
