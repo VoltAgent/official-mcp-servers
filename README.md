@@ -285,6 +285,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Moody's](https://www.moodys.com/web/en/us/genai/model-context-protocol.html)** - Credit ratings and research via Moody's GenAI data ([Claude](https://claude.com/marketplace/connectors/moodys-analytics))
 - **[Carta](https://claude.com/marketplace/connectors/carta)** - Cap table, investor, and fund data from Carta
 - **[Alpaca](https://github.com/alpacahq/alpaca-mcp-server)** - Trade stocks, ETFs and crypto through Alpaca
+- **[Equibles](https://equibles.com/mcp)** - SEC fundamentals, filings, earnings-call transcripts, 13F and insider trades
 
 </details>
 
