@@ -407,6 +407,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Supermetrics](https://github.com/supermetrics-public/supermetrics-mcp)** - Query live marketing data from 170+ platforms ([Claude](https://claude.com/marketplace/connectors/supermetrics))
 - **[Shopify](https://shopify.dev/docs/apps/build/devmcp)** - Shopify docs, API schema, and store tooling for AI ([Claude](https://claude.com/marketplace/connectors/shopify))
 - **[WordPress](https://github.com/WordPress/mcp-adapter)** - Expose WordPress abilities as MCP tools
+- **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)** - Schedule, cross-post and analyze social posts on 15 platforms
 
 </details>
 
