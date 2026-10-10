@@ -290,6 +290,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Alpaca](https://github.com/alpacahq/alpaca-mcp-server)** - Trade stocks, ETFs and crypto through Alpaca
 - **[Equibles](https://equibles.com/mcp)** - SEC fundamentals, filings, earnings-call transcripts, 13F and insider trades
 - **[Invompt](https://github.com/Invompt/invompt-mcp)** - Create and review invoices from an AI assistant
+- **[Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)** - Indian NSE and BSE stock data, screener, FII/DII flows
 
 </details>
 
