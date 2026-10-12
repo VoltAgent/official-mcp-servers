@@ -359,6 +359,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Mermaid Chart](https://mermaid.ai/docs/ai/mcp-server)** - Validate, render and manage Mermaid diagrams ([Claude](https://claude.com/marketplace/connectors/mermaid-chart))
 - **[Icons8](https://github.com/icons8/icons8-mcp)** - Massive icon library for AI coding tools
 - **[Magic Patterns](https://www.magicpatterns.com/docs/documentation/features/mcp-server/overview)** - Bring Magic Patterns designs into AI coding tools ([Claude](https://claude.com/marketplace/connectors/magic-patterns))
+- **[Oxynote](https://github.com/oxynote/oxynote)** - Search, read and edit self-hosted wiki pages and live charts
 
 </details>
 
