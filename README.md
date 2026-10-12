@@ -254,6 +254,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Udemy Business](https://business-support.udemy.com/hc/en-us/articles/34213384429335-How-to-Integrate-the-Udemy-Business-MCP-Server-With-Your-AI-Tool)** - Search courses and surface learning content ([Claude](https://claude.com/marketplace/connectors/udemy-business))
 - **[Craft](https://support.craft.do/en/integrate/mcp)** - Notes, docs and tasks via Craft remote MCP ([Claude](https://claude.com/marketplace/connectors/craft))
 - **[Pipedream](https://github.com/PipedreamHQ/pipedream)** - Connect thousands of apps and APIs through Pipedream
+- **[xTiles](https://xtiles.app/en/imagine/?utm_source=voltagent_official_mcp&utm_medium=mcp_registry&utm_campaign=mcp_listings)** - Turn AI chats into xTiles projects, notes and tasks ([Claude](https://claude.com/marketplace/connectors/xtiles))
 
 </details>
 
