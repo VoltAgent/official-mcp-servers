@@ -111,6 +111,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[MongoDB](https://github.com/mongodb-js/mongodb-mcp-server)** - Connect to MongoDB databases and Atlas
 - **[Redis](https://github.com/redis/mcp-redis)** - Natural language interface for Redis data
 - **[Snowflake](https://github.com/Snowflake-Labs/mcp)** - Snowflake Cortex AI and object management
+- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** - Data-center site selection data and daily DCPI grid-power scores
 
 </details>
 
