@@ -518,6 +518,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
 - **[Atomic-Mail/atomic-mail-agentic](https://github.com/Atomic-Mail/atomic-mail-agentic)** - Agent-owned email inboxes over JMAP, hosted MCP server
 - **[Search1API](https://github.com/superagents-lab/search1api-mcp)** - Web search, news, page crawling, sitemaps and trending topics
+- **[Chord](https://getchord.xyz/docs/agents/mcp/)** - DEX swap quotes, unsigned swap transactions and onchain market data
 
 </details>
 
