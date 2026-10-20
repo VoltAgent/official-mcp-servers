@@ -526,6 +526,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Ausca](https://ausca.com/docs/mcp/)** - Discover metered agent services, prepare calls, verify receipts
 - **[HutchDB](https://github.com/ExpeditedProjects/hutchdb)** - Shared database for teams and AI agents, over MCP
 - **[Mysocial](https://github.com/mysocialio/mysocial-intelligence)** - Social media intelligence from connected content history and performance.
+- **[NeverApply](https://neverapply.co/features/mcp)** - Search jobs, tailor resumes and apply with your approval
 
 </details>
 
