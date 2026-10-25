@@ -525,6 +525,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Serply](https://serply.io/mcp)** - Google web, news, Scholar and jobs search, plus page scraping
 - **[Ausca](https://ausca.com/docs/mcp/)** - Discover metered agent services, prepare calls, verify receipts
 - **[HutchDB](https://github.com/ExpeditedProjects/hutchdb)** - Shared database for teams and AI agents, over MCP
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - Official MCP server and 2-line Stripe-like Web3 checkout widget for accepting zero-fee `DOOM` (Doomsday L1) and `wDOOM` (Base Mainnet) payments.
 - **[Mysocial](https://github.com/mysocialio/mysocial-intelligence)** - Social media intelligence from connected content history and performance.
 - **[ppl](https://withppl.com/agents)** - Personal CRM for AI agents: contacts, notes, reminders, follow-ups ([Repo](https://github.com/ppl-crm/ppl))
 - **[Sourcey](https://github.com/sourcey/mcp-server)** - Find startup offers and inspect Agent Readiness evidence
