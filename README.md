@@ -533,6 +533,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[3D-Agent](https://3d-agent.com/blender-mcp)** - Blender modeling, animation and rendering agent as one MCP tool
 - **[CallMeMCP](https://github.com/radres/call-me)** - Agents call or text the user's iPhone and get replies
 
+- **[ReMCP](https://github.com/getremcp/remcp)** - Access explicitly paired computers through OAuth-protected remote MCP tools
 </details>
 
 ## 🔒 Security Notice
