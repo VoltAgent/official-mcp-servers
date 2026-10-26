@@ -533,6 +533,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[3D-Agent](https://3d-agent.com/blender-mcp)** - Blender modeling, animation and rendering agent as one MCP tool
 - **[CallMeMCP](https://github.com/radres/call-me)** - Agents call or text the user's iPhone and get replies
 - **[agent-qa](https://github.com/vostride/agent-qa)** - Natural-language web/mobile QA with advanced memidex memory and self-improvement
+- **[Utils](https://utils.bigfloppy.net)** - AI-slop detector and tiny utility API: hosted remote MCP server, free tier, paid calls settle via x402
 
 - **[Docsy](https://docsy.remcp.site/docs)** - Read-only versioned developer documentation with original source links
 </details>
