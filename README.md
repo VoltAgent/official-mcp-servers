@@ -537,6 +537,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 
 - **[Docsy](https://docsy.remcp.site/docs)** - Read-only versioned developer documentation with original source links
 - **[Flowmingo](https://flowmingo.ai/integration/mcp)** - Free AI Interviewer for recruiters: jobs, candidates, scored interviews
+- **[Keenable](https://github.com/keenableai/keenable-mcp)** - Keyless web search and page fetching with Keenable
 </details>
 
 ## 🔒 Security Notice
