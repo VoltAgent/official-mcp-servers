@@ -538,6 +538,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[UI Verify](https://uiverify.ai/docs/visual-testing-mcp-server)** - Visual regression diffs and baseline review for coding agents
 - **[Flowmingo](https://flowmingo.ai/integration/mcp)** - Free AI Interviewer for recruiters: jobs, candidates, scored interviews
 - **[Oh My Android](https://github.com/ateymoori/oh-my-android)** - Drive Android emulators and phones from AI agents
+- **[BestPrice](https://github.com/TheBestCo/bestprice-mcp)** - Greek price comparison: products, live shop offers and price history
 </details>
 
 ## 🔒 Security Notice
