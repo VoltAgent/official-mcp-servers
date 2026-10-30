@@ -534,9 +534,10 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[3D-Agent](https://3d-agent.com/blender-mcp)** - Blender modeling, animation and rendering agent as one MCP tool
 - **[CallMeMCP](https://github.com/radres/call-me)** - Agents call or text the user's iPhone and get replies
 - **[agent-qa](https://github.com/vostride/agent-qa)** - Natural-language web/mobile QA with advanced memidex memory and self-improvement
-
 - **[Docsy](https://docsy.remcp.site/docs)** - Read-only versioned developer documentation with original source links
+- **[UI Verify](https://uiverify.ai/docs/visual-testing-mcp-server)** - Visual regression diffs and baseline review for coding agents
 - **[Flowmingo](https://flowmingo.ai/integration/mcp)** - Free AI Interviewer for recruiters: jobs, candidates, scored interviews
+- **[Oh My Android](https://github.com/ateymoori/oh-my-android)** - Drive Android emulators and phones from AI agents
 - **[Keenable](https://github.com/keenableai/keenable-mcp)** - Keyless web search and page fetching with Keenable
 </details>
 
