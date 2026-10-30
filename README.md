@@ -539,6 +539,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Flowmingo](https://flowmingo.ai/integration/mcp)** - Free AI Interviewer for recruiters: jobs, candidates, scored interviews
 - **[Oh My Android](https://github.com/ateymoori/oh-my-android)** - Drive Android emulators and phones from AI agents
 - **[BestPrice](https://github.com/TheBestCo/bestprice-mcp)** - Greek price comparison: products, live shop offers and price history
+- **[npmscan](https://github.com/salemalem/npmscan-mcp-plugin)** - Audit npm packages for malware before agents install them
 - **[Keenable](https://github.com/keenableai/keenable-mcp)** - Keyless web search and page fetching with Keenable
 </details>
 
