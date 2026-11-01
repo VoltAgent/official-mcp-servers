@@ -541,6 +541,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[BestPrice](https://github.com/TheBestCo/bestprice-mcp)** - Greek price comparison: products, live shop offers and price history
 - **[npmscan](https://github.com/salemalem/npmscan-mcp-plugin)** - Audit npm packages for malware before agents install them
 - **[Keenable](https://github.com/keenableai/keenable-mcp)** - Keyless web search and page fetching with Keenable
+- **[Nova by CIVAI](https://nova.civai.co/explore)** - Research, documents, slides and inbox agents over hosted MCP
 </details>
 
 ## 🔒 Security Notice
