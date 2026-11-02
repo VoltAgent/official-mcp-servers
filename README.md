@@ -542,6 +542,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[npmscan](https://github.com/salemalem/npmscan-mcp-plugin)** - Audit npm packages for malware before agents install them
 - **[Keenable](https://github.com/keenableai/keenable-mcp)** - Keyless web search and page fetching with Keenable
 - **[Datacircle](https://datacircle.dev/docs/mcp)** - Find the best GTM APIs.
+- **[looot](https://looot.ai/mcp)** - Remote MCP server to search and call 300+ data providers
 </details>
 
 ## 🔒 Security Notice
