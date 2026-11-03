@@ -481,6 +481,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[IndiaMART](https://imgpt.indiamart.com/docs)** - Search suppliers and products on IndiaMART B2B marketplace
 - **[AfterShip](https://www.aftership.com/docs/post-purchase-mcp)** - Shipment tracking and post-purchase data from AfterShip
 - **[Loop Returns](https://docs.loopreturns.com/mcp/overview)** - Manage ecommerce returns and exchanges with Loop
+- **[Sociality.io](https://github.com/socialityio/sociality-mcp)** - Social media analytics, post insights and competitor benchmarking
 
 </details>
 
