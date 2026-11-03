@@ -164,6 +164,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Browser automation with Playwright
 - **[Scrapfly](https://github.com/scrapfly/scrapfly-mcp)** - Web scraping and data extraction via Scrapfly
 - **[Browser Use](https://docs.browser-use.com/cloud/guides/mcp-server)** - Run browser agents in stealth cloud browsers with Browser Use
+- **[ScrapingBee](https://mcp.scrapingbee.com/)** - Scrape, search and extract web data with ScrapingBee
 
 </details>
 
