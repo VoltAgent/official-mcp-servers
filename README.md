@@ -481,6 +481,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[IndiaMART](https://imgpt.indiamart.com/docs)** - Search suppliers and products on IndiaMART B2B marketplace
 - **[AfterShip](https://www.aftership.com/docs/post-purchase-mcp)** - Shipment tracking and post-purchase data from AfterShip
 - **[Loop Returns](https://docs.loopreturns.com/mcp/overview)** - Manage ecommerce returns and exchanges with Loop
+- **[Sociality.io](https://github.com/socialityio/sociality-mcp)** - Social media analytics, post insights and competitor benchmarking
 
 </details>
 
@@ -544,6 +545,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Datacircle](https://datacircle.dev/docs/mcp)** - Find the best GTM APIs.
 - **[looot](https://looot.ai/mcp)** - Remote MCP server to search and call 300+ data providers
 - **[LurkAPI](https://lurkapi.com/docs#claude)** - Public posts, ads and transcripts from 16 social platforms
+- **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
 </details>
 
 ## 🔒 Security Notice
