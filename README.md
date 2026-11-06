@@ -385,6 +385,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Canva](https://www.canva.dev/docs/apps/mcp/)** - Create and edit Canva designs ([Claude](https://claude.com/marketplace/connectors/canva))
 - **[Miro](https://claude.com/marketplace/connectors/miro)** - Miro boards and diagrams
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion pages and databases ([Claude](https://claude.com/marketplace/connectors/notion))
+- **[OneMira](https://github.com/onemira-space/onemira-mcp)** - Official OneMira MCP server to search, read, and synthesize speaker-attributed meeting transcripts, AI summaries, and structured Markdown memory from [OneMira C1](https://onemira.com/products/c1).
 - **[Linear](https://linear.app/docs/mcp)** - Linear issues and projects ([Claude](https://claude.com/marketplace/connectors/linear))
 - **[Atlassian](https://github.com/atlassian/atlassian-mcp-server)** - Jira and Confluence from Atlassian ([Claude](https://claude.com/marketplace/connectors/atlassian))
 - **[Slack](https://docs.slack.dev/ai/mcp-server)** - Slack messages and channels ([Claude](https://claude.com/marketplace/connectors/slack))
