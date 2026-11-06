@@ -467,6 +467,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Omnisend](https://api-docs.omnisend.com/reference/mcp-server-v2)** - Ecommerce email and SMS marketing in Omnisend
 - **[Meltwater](https://claude.com/marketplace/connectors/meltwater)** - Media monitoring and social listening from Meltwater
 - **[SE Ranking](https://seranking.com/api/integrations/mcp/)** - SEO rankings, keywords and backlinks from SE Ranking
+- **[GoAnyAPI/goanyapi-mcp](https://github.com/GoAnyAPI/goanyapi-mcp)** - Official GoAnyAPI MCP server for SEO and web data: SERP, autocomplete, keyword metrics, backlinks, website traffic and Google Ads Transparency
 - **[Livestorm](https://developers.livestorm.co/docs/model-context-protocol-mcp)** - Webinars, events and registrants in Livestorm ([Claude](https://claude.com/marketplace/connectors/livestorm))
 - **[Rebrandly](https://developers.rebrandly.com/docs/mcp-tools-reference)** - Create and track branded short links with Rebrandly
 - **[ZoomInfo](https://docs.zoominfo.com/docs/connect-to-zoominfo-mcp)** - B2B company and contact data from ZoomInfo ([Claude](https://claude.com/marketplace/connectors/zoominfo))
