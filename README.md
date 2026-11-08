@@ -545,7 +545,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Datacircle](https://datacircle.dev/docs/mcp)** - Find the best GTM APIs.
 - **[looot](https://looot.ai/mcp)** - Remote MCP server to search and call 300+ data providers
 - **[LurkAPI](https://lurkapi.com/docs#claude)** - Public posts, ads and transcripts from 16 social platforms
-- **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
+- **[Arcmira](https://github.com/arcmira/mcp)** - YouTube and podcast understanding for your AI.
 </details>
 
 ## 🔒 Security Notice
