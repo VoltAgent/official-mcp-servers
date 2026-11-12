@@ -500,6 +500,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 <details open>
 <summary><h3 style="display:inline">Emerging and Independent</h3></summary>
 
+- **[AgentWeb](https://github.com/AgentWeb-Labs/agentweb-mcp)** - Lets any agent act on real signed-in sites, verified.
 - **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
 - **[Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent)** - Self-healing CI runners your coding agents can run, read, fix
 - **[SolidPing](https://github.com/fclairamb/solidping)** - Uptime checks, incidents and status pages, self-hostable
