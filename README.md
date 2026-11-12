@@ -549,6 +549,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
 - **[Wiro AI](https://github.com/wiroai/Wiro-MCP)** - Run image, video, audio and LLM models, workflows and agents
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
+- **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 </details>
 
 ## 🔒 Security Notice
