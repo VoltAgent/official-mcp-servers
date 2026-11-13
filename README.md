@@ -375,6 +375,8 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Wistia](https://docs.wistia.com/docs/mcp-server-guide)** - Manage Wistia media, episodes and webinars
 - **[DeepL](https://developers.deepl.com/docs/mcp)** - Translate text and documents with DeepL ([Claude](https://claude.com/marketplace/connectors/deepl))
 - **[Flourish](https://helpcenter.flourish.studio/hc/en-us/articles/16487012057999-Flourish-MCP-connector-an-intro)** - Build Flourish charts, maps and data stories
+- **[Kling AI (Global)](https://github.com/klingai-tech/claude-plugin)** - Generate images and videos; track tasks using global accounts
+- **[Kling AI (China)](https://github.com/klingai-dev/openclaw-plugin)** - Generate images and videos; track tasks using China-region accounts
 
 </details>
 
