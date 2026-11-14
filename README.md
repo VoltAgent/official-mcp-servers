@@ -546,6 +546,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[looot](https://looot.ai/mcp)** - Remote MCP server to search and call 300+ data providers
 - **[LurkAPI](https://lurkapi.com/docs#claude)** - Public posts, ads and transcripts from 16 social platforms
 - **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
+- **[leadli.me](https://leadli.me/en/guides/mcp-server)** - Telegram subscriber reports, Meta/TikTok attribution, channel and landing management
 </details>
 
 ## 🔒 Security Notice
