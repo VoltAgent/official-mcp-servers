@@ -546,7 +546,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[looot](https://looot.ai/mcp)** - Remote MCP server to search and call 300+ data providers
 - **[LurkAPI](https://lurkapi.com/docs#claude)** - Public posts, ads and transcripts from 16 social platforms
 - **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
-- **[QRdx](https://github.com/bucharitesh/qrdx)** - Styled QR codes and barcodes with a scan check
+- **[QRdx](https://github.com/qrdxinc/qrdx)** - Styled QR codes and barcodes with a scan check
 </details>
 
 ## 🔒 Security Notice
