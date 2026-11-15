@@ -68,6 +68,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - Azure DevOps repos, work items and pipelines
 - **[Radar](https://github.com/skyhook-io/radar)** - Inspect, troubleshoot and operate Kubernetes clusters
 - **[Render](https://render.com/docs/mcp-server)** - Deploy and manage services, databases and environments on Render ([Claude](https://claude.com/marketplace/connectors/render))
+- **[Buddy](https://buddy.works/docs/ai-agents/mcp)** - Run pipelines, manage sandboxes and read logs in Buddy
 
 </details>
 
