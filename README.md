@@ -549,6 +549,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Arcmira](https://github.com/arcmira/mcp)** - Search YouTube and podcast transcripts for timestamped quotes and mentions
 - **[Wiro AI](https://github.com/wiroai/Wiro-MCP)** - Run image, video, audio and LLM models, workflows and agents
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
+- **[QRdx](https://github.com/qrdxinc/qrdx)** - Styled QR codes and barcodes with a scan check
 </details>
 
 ## 🔒 Security Notice
