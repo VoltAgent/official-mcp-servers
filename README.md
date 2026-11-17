@@ -551,6 +551,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
 - **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 - **[UberLLM](https://uberllm.dev/docs/mcp)** - Generate images and video, price 500+ AI models, check balance
+- **[Solana Rent & Rug Shield](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp)** - Solana token anti-rug audits, drain simulation and rent scanning
 </details>
 
 ## 🔒 Security Notice
