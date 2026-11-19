@@ -501,6 +501,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 <details open>
 <summary><h3 style="display:inline">Emerging and Independent</h3></summary>
 
+- **[AutoTasker Hub](https://github.com/breezesamuel/autotasker-hub-aevum)** - Pay-per-call China trending data MCP over x402 on Base.
 - **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
 - **[Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent)** - Self-healing CI runners your coding agents can run, read, fix
 - **[SolidPing](https://github.com/fclairamb/solidping)** - Uptime checks, incidents and status pages, self-hostable
