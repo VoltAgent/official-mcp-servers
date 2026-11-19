@@ -483,6 +483,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[AfterShip](https://www.aftership.com/docs/post-purchase-mcp)** - Shipment tracking and post-purchase data from AfterShip
 - **[Loop Returns](https://docs.loopreturns.com/mcp/overview)** - Manage ecommerce returns and exchanges with Loop
 - **[Sociality.io](https://github.com/socialityio/sociality-mcp)** - Social media analytics, post insights and competitor benchmarking
+- **[Poptin](https://developers.poptin.com/docs/mcp)** - Email campaigns, popup analytics, and audience segmentation through hosted OAuth
 
 </details>
 
