@@ -358,7 +358,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[cloudinary/mcp-servers](https://github.com/cloudinary/mcp-servers)** - Cloudinary media management and transformation
 - **[OpenRouter](https://openrouter.ai/docs/guides/overview/mcp-server)** - Access models through OpenRouter
 - **[MiniMax](https://github.com/MiniMax-AI/MiniMax-MCP)** - Text-to-speech, image and video generation APIs
-- **[Kling AI](https://kling.ai/app/mcp/guide)** - Official image and video generation MCP; Global: [endpoint](https://kling.ai/mcp/plugin), China: [endpoint](https://klingai.com/mcp/plugin)
+- **[Kling AI Plugin](https://kling.ai/app/mcp/guide)** - Official image and video generation MCP; Global: [endpoint](https://kling.ai/mcp/plugin), China: [endpoint](https://klingai.com/mcp/plugin)
 - **[Adobe for creativity](https://claude.com/marketplace/connectors/adobe-creativity)** - Photoshop, Express and Firefly tools inside Claude
 - **[Lottie Creator](https://docs.lottiefiles.com/en/creator/13_ai-tools/lottie-creator-mcp)** - Build and edit Lottie animations with AI
 - **[Rive](https://rive.app/docs/editor/ai/mcp)** - Control the Rive editor and animations via MCP
