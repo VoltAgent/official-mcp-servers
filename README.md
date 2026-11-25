@@ -551,6 +551,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
 - **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 - **[UberLLM](https://uberllm.dev/docs/mcp)** - Generate images and video, price 500+ AI models, check balance
+- **[Levea](https://github.com/brajendrak00068/agentic-ai-video-production)** - Autonomous AI video editor with 37 MCP tools, 280+ animated caption templates, 9:16 active-speaker reframe, B-roll, motion graphics, and cloud MP4 export
 </details>
 
 ## 🔒 Security Notice
