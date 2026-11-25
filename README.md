@@ -551,6 +551,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
 - **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 - **[UberLLM](https://uberllm.dev/docs/mcp)** - Generate images and video, price 500+ AI models, check balance
+- **[SiftingIO](https://sifting.io/integrations/mcp)** - Read-only stock, forex and crypto prices, history and market calendars
 </details>
 
 ## 🔒 Security Notice
@@ -575,3 +576,4 @@ MIT License, see [LICENSE](LICENSE)
 This is a curated list. Servers listed here are created and maintained by their respective authors and companies, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects.
 
 If you find an issue with a listed server or want your project removed, please [open an issue](https://github.com/VoltAgent/official-mcp-servers/issues) and we will take care of it promptly.
+
