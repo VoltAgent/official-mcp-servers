@@ -321,6 +321,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Dun & Bradstreet](https://www.dnb.co.uk/solutions/artificial-intelligence/connectors/dnb-mcp.html)** - Dun & Bradstreet company, risk and finance analytics data
 - **[Vanguard](https://advisors.vanguard.com/content/dam/fas/engagement/VanguardAdvisorToolsConnector.pdf)** - Vanguard advisor tools, fund and portfolio data
 - **[ICE Data Services](https://claude.com/marketplace/connectors/ice-data-services)** - ICE fixed income, reference and market data
+- **[AlphAI](https://alphai.io/mcp)** - Financial news scored 1-10 for relevance per ticker, plus SEC Form 4 insider trading data
 
 </details>
 
