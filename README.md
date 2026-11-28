@@ -551,6 +551,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
 - **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 - **[UberLLM](https://uberllm.dev/docs/mcp)** - Generate images and video, price 500+ AI models, check balance
+- **[SearchApi](https://www.searchapi.io/integrations/mcp)** - Google, Bing, YouTube, Amazon and 100+ search engines as JSON
 </details>
 
 ## 🔒 Security Notice
