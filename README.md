@@ -551,7 +551,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SandBase CLI](https://github.com/sandbaseai/cli)** - Connect AI clients to 2,000+ models via MCP
 - **[ScanMalware](https://github.com/scanmalware/mcp-server)** - Keyless phishing URL scans, AI scam classification and campaign pivots ([Claude](https://claude.ai/directory/scanmalware))
 - **[UberLLM](https://uberllm.dev/docs/mcp)** - Generate images and video, price 500+ AI models, check balance
-- **[Lantern Works GPU Prices](https://github.com/connormatthewdouglas/agent-work-stack-deals)** - Read-only cloud GPU rental prices, price changes and deals
+- **[Lantern Works GPU Prices](https://github.com/connormatthewdouglas/agent-work-stack-deals)** - Cloud GPU rental prices, price changes and deals (local uvx package read-only; hosted endpoint adds optional price watches and alerts)
 </details>
 
 ## 🔒 Security Notice
